@@ -2,6 +2,7 @@
 
 The course project for BZAN620. Still under development because of the lack of computation resources.
 
+One can try to run this project by running main.py.
 
 **References**:
 
